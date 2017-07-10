@@ -35,6 +35,5 @@ class KomaList {
       if (team==k.team && x == k.x && y == k.y && k.kStat.active) return k;
     }
     return null;
-  }
-  
+  } 
 }
